@@ -3,7 +3,8 @@ import os,sys
 import numpy as np
 
 print("Hello World..!")
-print("This is my main branch..!")
+print("This is my branch1..!")
+print("I have added this new line in branch1")
 
 #Read a text file and fetch the content into a string variable
 def read_file(file_path):
