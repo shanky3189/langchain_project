@@ -4,6 +4,7 @@ import numpy as np
 
 print("Hello World..!")
 print("This is my main branch..!")
+print("I am updating main branch")
 
 #Read a text file and fetch the content into a string variable
 def read_file(file_path):
